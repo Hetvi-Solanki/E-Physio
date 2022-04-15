@@ -1,0 +1,16 @@
+.header-uper{
+    /* background-color: rgb(208, 227, 252); */
+    background: url('top101.jpg') no-repeat center center/cover;
+}
+
+.bg{
+    background: url('top101.jpg') no-repeat center center/cover;
+}
+
+.bg1{
+    background-color: rgba(204, 211, 248, 0.805);
+}
+
+.bg2{
+    background: url('top.jpg') no-repeat center center/cover;
+}

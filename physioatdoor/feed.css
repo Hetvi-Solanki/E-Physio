@@ -1,0 +1,49 @@
+.super
+		{
+			display: table;
+			table-layout: fixed;
+			width: 100%;
+		}
+		.super-image
+		{
+			width: 48px;
+		}
+		.super-image1
+		{
+			display: table-cell;
+			vertical-align: top;
+		}
+		.i1
+		{
+			border-radius: 24px;
+			box-shadow: 0 1px 2px #8d8d8d;
+			background-size: contain;
+			height: 48px;
+			
+			width: 48px;
+		}
+		.i2
+		{
+			background-size: contain;
+		}
+		.si1
+		{
+			padding-left: 9px;
+		}
+		.a2
+		{
+			display: inline-block;
+			height: 55px;
+			line-height: 24px;
+			vertical-align: top;
+
+		}
+		.a1
+		{
+			vertical-align: middle;
+		}
+		.sp
+		{
+			font-weight: bold;
+		}
+		
