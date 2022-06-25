@@ -15,7 +15,5 @@ Purpose: User can call physiotherapist to their Home and get treatment
 
 You're good to Go!!
 
-Here are some glimpse of the project:
-
-
-Explore the site and Enjoy our service
+For more details and Screenshots of the project, check the report below:
+[E-Physio Project Report.pdf](https://github.com/Hetvi-Solanki/E-Physio/files/8984153/E-Physio.Project.Report.pdf)
